@@ -3,11 +3,11 @@
   <title>小沛的博客</title>
   
   
-  <link href="https://hpw2008.github.com/atom.xml" rel="self"/>
+  <link href="https://hpw2008.github.io/atom.xml" rel="self"/>
   
-  <link href="https://hpw2008.github.com/"/>
+  <link href="https://hpw2008.github.io/"/>
   <updated>2022-06-27T08:41:35.888Z</updated>
-  <id>https://hpw2008.github.com/</id>
+  <id>https://hpw2008.github.io/</id>
   
   <author>
     <name>小沛</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://hpw2008.github.com/2022/06/27/hello-world/"/>
-    <id>https://hpw2008.github.com/2022/06/27/hello-world/</id>
+    <link href="https://hpw2008.github.io/2022/06/27/hello-world/"/>
+    <id>https://hpw2008.github.io/2022/06/27/hello-world/</id>
     <published>2022-06-27T08:41:35.888Z</published>
     <updated>2022-06-27T08:41:35.888Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hexo-Theme-Sakura</title>
-    <link href="https://hpw2008.github.com/2018/12/12/Hexo-Theme-Sakura/"/>
-    <id>https://hpw2008.github.com/2018/12/12/Hexo-Theme-Sakura/</id>
+    <link href="https://hpw2008.github.io/2018/12/12/Hexo-Theme-Sakura/"/>
+    <id>https://hpw2008.github.io/2018/12/12/Hexo-Theme-Sakura/</id>
     <published>2018-12-12T14:16:01.000Z</published>
     <updated>2021-11-09T14:13:18.000Z</updated>
     
@@ -49,12 +49,12 @@
     
     
     
-    <category term="技术" scheme="https://hpw2008.github.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    <category term="技术" scheme="https://hpw2008.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="web" scheme="https://hpw2008.github.com/tags/web/"/>
+    <category term="web" scheme="https://hpw2008.github.io/tags/web/"/>
     
-    <category term="悦读" scheme="https://hpw2008.github.com/tags/%E6%82%A6%E8%AF%BB/"/>
+    <category term="悦读" scheme="https://hpw2008.github.io/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
