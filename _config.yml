@@ -104,7 +104,7 @@ theme: Sakura
 deploy:
   type: git
   repo: git@github.com:hpw2008/hpw2008.github.io.git
-  branch: main
+  branch: master
 
 # backup
 backup:
