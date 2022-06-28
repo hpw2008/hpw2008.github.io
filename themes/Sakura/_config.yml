@@ -6,13 +6,13 @@ favicon: /images/favicon.ico
 avatar: /img/custom/avatar.jpg
 url: https://hpw2008.github.io/
 description: 烟花易逝 人情长存
-cdn: https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.0
+cdn: https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.1
 pjax: 1
 # 1开启
 mathjax: 0
 
 notice: hexo-Sakura Hello
-lazyloadImg: https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.0/img/loader/orange.progress-bar-stripe-loader.svg
+lazyloadImg: https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.1/img/loader/orange.progress-bar-stripe-loader.svg
 
 live2d:
   enable: true
@@ -50,14 +50,14 @@ homePageSortType: -1
 homeArticleShown: 10
 # 背景图片 更好的修改
 bg:
-  - https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.0/img/cover/(1).jpg.webp
-  - https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.0/img/cover/(2).jpg.webp
-  - https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.0/img/cover/(3).jpg.webp
-  - https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.0/img/cover/(4).jpg.webp
-  - https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.0/img/cover/(5).jpg.webp
-  - https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.0/img/cover/(6).jpg.webp
-  - https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.0/img/cover/(7).jpg.webp
-  - https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.0/img/cover/(8).jpg.webp
+  - https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.1/img/cover/(1).jpg.webp
+  - https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.1/img/cover/(2).jpg.webp
+  - https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.1/img/cover/(3).jpg.webp
+  - https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.1/img/cover/(4).jpg.webp
+  - https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.1/img/cover/(5).jpg.webp
+  - https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.1/img/cover/(6).jpg.webp
+  - https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.1/img/cover/(7).jpg.webp
+  - https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.1/img/cover/(8).jpg.webp
 
 # 背景图片样式 空 原图效果 filter-dim 阴影 filter-grid 横条 filter-dot 点点
 bgclass: filter-dot
@@ -98,7 +98,7 @@ donate:
 
 # 视频地址为https://cdn.jsdelivr.net/gh/honjun/hojun@1.2/Unbroken.mp4，配置如下
 movies:
-  url: https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.0
+  url: https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.1
   # 多个视频用逗号隔开，随机获取。支持的格式目前已知MP4,Flv。其他的可以试下，不保证有用
   name: Unbroken.mp4
 
