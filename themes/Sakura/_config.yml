@@ -4,7 +4,7 @@ siteName: Blog
 # favicon and site master avatar
 favicon: /images/favicon.ico
 avatar: /img/custom/avatar.jpg
-url: https://hpw2008.github.io/
+url: https://hpw2008.tk/
 description: 烟花易逝 人情长存
 cdn: https://cdn.jsdelivr.net/gh/hpw2008/cdn@1.1
 pjax: 1
@@ -116,8 +116,8 @@ aplayer:
 
 # Valine
 valine: true
-v_appId: GyC3NzMvd0hT9Yyd2hYIC0MN-gzGzoHsz
-v_appKey: mgOpfzbkHYqU92CV4IDlAUHQ
+v_appId: evLoSwOA9eClPIrJ9hA2iNO0-gzGzoHsz
+v_appKey: Nusnhd8JxXLrSUHCXMExHAi1
 
 # Waline
 waline:
